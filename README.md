@@ -15,47 +15,28 @@ Currently building an **OLX-style marketplace backend in Go**, exploring product
 ---
 ## 🚀 Featured Projects
 
-### 01. DevShow
-**Full-Stack Platform · Backend · Frontend · Mobile**
+### 01 · [DevShow — Backend](https://github.com/yashG0/DevShow) · [Frontend](https://github.com/yashG0/Devshow-application) · [Mobile App](https://github.com/yashG0/Devshow-mobile)
 
-A multi-platform development project spanning backend services, a web frontend, and a mobile application.
+**Full-stack platform spanning backend services, a web frontend, and a mobile application.**
 
-- Backend development
-- Frontend web application
-- Mobile application
+Explore the individual repositories for each part of the project.
 
-**Focus:** Full-stack architecture, API integration, and cross-platform development.
+### 02 · [Ledger — Job Application Tracker](https://github.com/yashG0/full-stack-job-application-tracker)
 
-### 02. Job Application Tracker
-**Full-Stack Application · Django**
+**Full-stack job application tracker built with Django REST Framework and PostgreSQL.**
 
-A full-stack application built to organize and track job applications throughout the job-search process.
+- JWT authentication and token refresh
+- Per-user data isolation and object-level permissions
+- Application status history and contact tracking
+- React frontend maintained separately
 
-- Django backend
-- Full-stack application development
-- Job application organization and tracking
+### 03 · [LinkPulse — Website Monitoring API](https://github.com/yashG0/linkpulse-website-monitoring-tool)
 
-**Focus:** Backend development, data modeling, and full-stack integration.
+**Website monitoring and uptime API built with Go.**
 
-### 03. Ledger
-**Personal Finance & Transaction Management**
-
-A project focused on ledger-style record keeping and organizing financial transactions.
-
-**Focus:** Data integrity, transaction modeling, and maintainable application design.
-
-### 04. LinkPulse
-**Website Monitoring & Uptime API · Go**
-
-A backend project focused on monitoring website availability and building an API for uptime checks.
-
-- Go
-- PostgreSQL
-- GORM
+- PostgreSQL persistence with GORM
 - Database migrations
-- Containerized development
-
-**Focus:** REST API design, persistence, and backend reliability.
+- Containerized development workflow
 ---
 
 ## Tech Stack
